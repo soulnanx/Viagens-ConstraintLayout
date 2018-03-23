@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Viagens</string>
+    <string name="main_title">Pacotes</string>
+    <string name="pais">Brasil</string>
+    <string name="tipo_pacote">Especiais</string>
+    <string name="banner_do_conteudo">Banner do conteudo</string>
+</resources>
